@@ -9,7 +9,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
   - **Example**: https://github.com/pedrommcarrasco/swiftui-tabviewResetsViewsAndNavigationStack
 - Modal views/sheets don't automatically have environment data
   - **Example**: https://forums.developer.apple.com/thread/117651
-  - Scrollview with HStack and items have poor performance for large data sets (all child views are loaded on init).
+- Scrollview with HStack and items have poor performance for large data sets (all child views are loaded on init).
 
 ## Limitations/Unknowns
 - Unable to remove or customise list separators

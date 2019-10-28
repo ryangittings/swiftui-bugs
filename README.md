@@ -17,5 +17,6 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - Unable to easily support deep linking for universal links or notifications
 - Unable to use a UISearchController with a SwiftUI view
   - **[Example](https://stackoverflow.com/questions/58511758/swiftui-uisearchcontroller-searchresultscontroller-navigation-stack-issue)**
+- Unable to remove a list item background altogether for one cell
 
 Please feel free to PR and submit examples, workarounds and/or fixes so I can keep this up to date.

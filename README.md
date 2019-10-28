@@ -1,4 +1,4 @@
-# SwiftUI Issues
+# SwiftUI Issues, Limitations & Unknowns
 With Apple's documentation for SwiftUI being limited, I wanted to create a central resource of all bugs, issues and limitations with SwiftUI.
 
 ## Current Issues

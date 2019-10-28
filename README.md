@@ -1,5 +1,5 @@
 # SwiftUI Issues
-With Apple's documentation between releases being limited, I wanted to create a resource where I can track what I think are SwiftUI bugs, with sample code where necessary.
+With Apple's documentation for SwiftUI being limited, I wanted to create a central resource of all bugs, issues and limitations with SwiftUI.
 
 ## Current Issues
 - Context menu not showing on a custom view
@@ -9,6 +9,7 @@ With Apple's documentation between releases being limited, I wanted to create a 
   - **Example**: https://github.com/pedrommcarrasco/swiftui-tabviewResetsViewsAndNavigationStack
 - Modal views/sheets don't automatically have environment data
   - **Example**: https://forums.developer.apple.com/thread/117651
+  - Scrollview with HStack and items have poor performance for large data sets (all child views are loaded on init).
 
 ## Limitations/Unknowns
 - Unable to remove or customise list separators

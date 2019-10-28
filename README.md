@@ -10,6 +10,9 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - Modal views/sheets don't automatically have environment data
   - 🔨 **[Example](https://forums.developer.apple.com/thread/117651)**
 - Scrollview with HStack and items have poor performance for large data sets (all child views are loaded on init).
+- Multiple buttons in a list row causes both buttons to be actioned upon when tapped
+  - 🔨 **[Example](https://stackoverflow.com/questions/56561064/swiftui-multiple-buttons-in-a-list-row)**
+  - ↪️ **[Workaround](https://stackoverflow.com/a/56561423/11651357)**
 
 ## Limitations/Unknowns
 - Unable to remove or customise list separators

@@ -7,6 +7,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
   - 📝 FB7411430
 - Tab view resets view and navigation stack
   - 🔨 **[Example](https://github.com/pedrommcarrasco/swiftui-tabviewResetsViewsAndNavigationStack)**
+  - ↪️ **[Workaround](https://gist.github.com/Amzd/2eb5b941865e8c5cccf149e6e07c8810)**
   - 📝 FB7411430
 - Modal views/sheets don't automatically have environment data
   - 🔨 **[Example](https://forums.developer.apple.com/thread/117651)**

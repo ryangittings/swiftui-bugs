@@ -4,6 +4,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 ## Current Issues
 - Environment/observed objects lose data on list view change. This problem appear in case when parent view updated with same data in terms of hash. The bug is not appearing when the parent view updated with different data.
   - 🔨 **[Example](https://github.com/mecid/swiftui-bug)**
+  - ✍🏻 **[Explanation](https://stackoverflow.com/questions/58241359/keep-reference-on-view-data-model-after-view-update)**
   - 📝 FB7411430
 - Tab view resets view and navigation stack
   - 🔨 **[Example](https://github.com/pedrommcarrasco/swiftui-tabviewResetsViewsAndNavigationStack)**

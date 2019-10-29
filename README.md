@@ -3,7 +3,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 
 ## Current Issues
 - Context menu not showing on a custom view
-- Environment/observed objects lose data on list view change
+- Environment/observed objects lose data on list view change. This problem appear in case when parent view updated with same data in terms of hash. The bug is not appearing when the parent view updated with different data.
   - 🔨 **[Example](https://github.com/mecid/swiftui-bug)**
 - Tab view resets view and navigation stack
   - 🔨 **[Example](https://github.com/pedrommcarrasco/swiftui-tabviewResetsViewsAndNavigationStack)**

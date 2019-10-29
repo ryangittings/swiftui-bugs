@@ -10,6 +10,9 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
   - 📝 FB7411430
 - Modal views/sheets don't automatically have environment data
   - 🔨 **[Example](https://forums.developer.apple.com/thread/117651)**
+- Context menu not showing on a custom view with resizable or geometry reader
+  - 🔨 **[Example](https://gist.github.com/ryangittings/23936424d936ead2cb768a9b55c5228d)**
+  - 📝 FB7416520
 - Multiple buttons in a list row causes both buttons to be actioned upon when tapped
   - 🔨 **[Example](https://stackoverflow.com/questions/56561064/swiftui-multiple-buttons-in-a-list-row)**
   - ↪️ **[Workaround](https://stackoverflow.com/a/56561423/11651357)**

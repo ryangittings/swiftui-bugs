@@ -39,5 +39,8 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - Unable to remove a list item background altogether for one cell
   - 📝 FB7371374
 - Unable to know when view becomes active again (equivalent to viewDidAppear)
+- Unable to change status bar colour
+  - ↪️ **[Workaround](https://stackoverflow.com/a/57642382/11651357)**
+  - 📝 FB7400803
 
 Please feel free to PR and submit examples, workarounds and/or fixes so I can keep this up to date.

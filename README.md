@@ -9,7 +9,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - Tab view resets view and navigation stack
   - 🔨 **[Example](https://github.com/pedrommcarrasco/swiftui-tabviewResetsViewsAndNavigationStack)**
   - ↪️ **[Workaround](https://gist.github.com/Amzd/2eb5b941865e8c5cccf149e6e07c8810)**
-  - 📝 FB7411430
+  - 📝 FB7301114
 - Modal views/sheets don't automatically have environment data
   - 🔨 **[Example](https://forums.developer.apple.com/thread/117651)**
 - Context menu not showing on a custom view with resizable or geometry reader
@@ -18,7 +18,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - Multiple buttons in a list row causes both buttons to be actioned upon when tapped
   - 🔨 **[Example](https://stackoverflow.com/questions/56561064/swiftui-multiple-buttons-in-a-list-row)**
   - ↪️ **[Workaround](https://stackoverflow.com/a/56561423/11651357)**
-  - 📝 FFB7416322
+  - 📝 FB7416322
 - 'Tried to pop to a view controller that doesn't exist' crash 
   - 🔨 **[Example](https://stackoverflow.com/q/58404725/11651357)**
   - ↪️ **[Workaround](https://stackoverflow.com/a/58466670/11651357)**

@@ -19,6 +19,9 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
   - 🔨 **[Example](https://stackoverflow.com/questions/56561064/swiftui-multiple-buttons-in-a-list-row)**
   - ↪️ **[Workaround](https://stackoverflow.com/a/56561423/11651357)**
   - 📝 FB7416322
+- @FetchRequest property wrapper doesn't support dynamic variable predicates
+  - ↪️ **[Workaround](https://gist.github.com/ryangittings/938496f9414c0b9e075775a863987b25)**
+  - 📝 FB7207999
 - 'Tried to pop to a view controller that doesn't exist' crash 
   - 🔨 **[Example](https://stackoverflow.com/q/58404725/11651357)**
   - ↪️ **[Workaround](https://stackoverflow.com/a/58466670/11651357)**

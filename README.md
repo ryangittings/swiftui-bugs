@@ -22,6 +22,9 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - 'Tried to pop to a view controller that doesn't exist' crash 
   - 🔨 **[Example](https://stackoverflow.com/q/58404725/11651357)**
   - ↪️ **[Workaround](https://stackoverflow.com/a/58466670/11651357)**
+- I just ran it on an iPad and all I get is blank screen
+  - Anything with a NavigationView
+  - **[Workaround] Add this modifier: `.navigationViewStyle(StackNavigationViewStyle())` as by default does master/detail.
 
 ## Limitations/Unknowns
 - No SwiftUI equivalent to UICollectionView

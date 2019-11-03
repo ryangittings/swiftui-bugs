@@ -22,6 +22,9 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - 'Tried to pop to a view controller that doesn't exist' crash 
   - 🔨 **[Example](https://stackoverflow.com/q/58404725/11651357)**
   - ↪️ **[Workaround](https://stackoverflow.com/a/58466670/11651357)**
+- .minimumScaleFactor() is broken in WatchOS app: instead of scaling down, it just set to minimum
+  - 📝 FB7408679
+  - 🔨 **[Example](https://www.reddit.com/r/SwiftUI/comments/dn27ja/after_catalina_beta_3_update_watch_app_layout/)**
 
 ## Limitations/Unknowns
 - No SwiftUI equivalent to UICollectionView

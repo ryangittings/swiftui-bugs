@@ -25,6 +25,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - .minimumScaleFactor() is broken in WatchOS app: instead of scaling down, it just set to minimum
   - 📝 FB7408679
   - 🔨 **[Example](https://www.reddit.com/r/SwiftUI/comments/dn27ja/after_catalina_beta_3_update_watch_app_layout/)**
+- List insets change padding within a list view when changing state
 
 ## Limitations/Unknowns
 - No SwiftUI equivalent to UICollectionView

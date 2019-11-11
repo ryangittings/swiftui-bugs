@@ -26,6 +26,8 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
   - 📝 FB7408679
   - 🔨 **[Example](https://www.reddit.com/r/SwiftUI/comments/dn27ja/after_catalina_beta_3_update_watch_app_layout/)**
 - List insets change padding within a list view when changing state
+- List doesn't update update a list view using an array and ForEach()
+  - 🔨 **[Example](https://github.com/leontedev/Habbits)**
 
 ## Limitations/Unknowns
 - No SwiftUI equivalent to UICollectionView

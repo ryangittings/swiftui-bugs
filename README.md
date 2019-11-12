@@ -51,5 +51,7 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - @FetchRequest property wrapper doesn't support dynamic variable predicates
   - ↪️ **[Workaround](https://gist.github.com/ryangittings/938496f9414c0b9e075775a863987b25)**
   - 📝 FB7207999
+- List doesn't support section index
+  - 📝 FB7441706
 
 Please feel free to PR and submit examples, workarounds and/or fixes so I can keep this up to date.

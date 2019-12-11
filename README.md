@@ -10,6 +10,8 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
   - 🔨 **[Example](https://github.com/pedrommcarrasco/swiftui-tabviewResetsViewsAndNavigationStack)**
   - ↪️ **[Workaround](https://gist.github.com/Amzd/2eb5b941865e8c5cccf149e6e07c8810)**
   - 📝 FB7301114
+- Tab view loses ordering after rearranging
+  - 📚 **[Stack Overflow question](https://stackoverflow.com/questions/59255398/swiftui-tabview-rearrange-tab-order-preservation)**
 - Modal views/sheets don't automatically have environment data
   - 🔨 **[Example](https://forums.developer.apple.com/thread/117651)**
 - Context menu not showing on a custom view with resizable or geometry reader

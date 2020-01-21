@@ -28,6 +28,8 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - List insets change padding within a list view when changing state
 - List doesn't update update a list view using an array and ForEach()
   - 🔨 **[Example](https://github.com/leontedev/Habbits)**
+- List crashes when TabView tab changes during a scroll
+  - 🔨 **[Example](https://stackoverflow.com/questions/59097327/swiftui-crash-when-scrolling-a-list)**
 
 ## Limitations/Unknowns
 - No SwiftUI equivalent to UICollectionView

@@ -55,5 +55,8 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
   - 📝 FB7207999
 - List doesn't support section index
   - 📝 FB7441706
+- Horizontal `ScrollView` inside a vertical `ScrollView` captures vertical scrolling gesture on macOS
+  - 📝 FB7673707
+  - 🔨 **[Example](https://gist.github.com/nrivard/3c82083bbf60b3d01271896a668fb3a2)**
 
 Please feel free to PR and submit examples, workarounds and/or fixes so I can keep this up to date.

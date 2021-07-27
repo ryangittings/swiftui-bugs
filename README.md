@@ -35,8 +35,6 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - No SwiftUI equivalent to UICollectionView
 - Scrollview with HStack and items have poor performance for large data sets (all child views are loaded on init).
   - 📝 FB7216618
-- Unable to remove or customise list separators
-  - 📝 FB7108559
 - Unable to change navigation appearance for a single view
   - 📝 FB7310681
 - Unable to easily support deep linking for universal links or notifications
@@ -58,5 +56,11 @@ With Apple's documentation for SwiftUI being limited, I wanted to create a centr
 - Horizontal `ScrollView` inside a vertical `ScrollView` captures vertical scrolling gesture on macOS
   - 📝 FB7673707
   - 🔨 **[Example](https://gist.github.com/nrivard/3c82083bbf60b3d01271896a668fb3a2)**
+
+## Resolved
+
+- Unable to remove or customise list separators
+  - 📝 FB7108559
+  - ✅ iOS 15: hide list separators for certain edges with [`.listRowSeparator`](https://developer.apple.com/documentation/swiftui/menu/listrowseparator(_:edges:)), and change tint color with [`.listRowSeparatorTint`](https://developer.apple.com/documentation/swiftui/view/listrowseparatortint(_:edges:))
 
 Please feel free to PR and submit examples, workarounds and/or fixes so I can keep this up to date.
